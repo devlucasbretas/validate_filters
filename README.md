@@ -1,4 +1,4 @@
-<h2>Validade Filters PHP</h2>
+<h2>Validate Filters PHP</h2>
 
 <h3>Aplicação</h3>
 
